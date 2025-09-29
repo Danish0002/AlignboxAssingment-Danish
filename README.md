@@ -26,4 +26,4 @@ Then start the backend — it auto-creates the `messages` table.
 
 ---
 
-Now open `http://localhost:3000` 🎉
+Now open `http://localhost:3000` 
